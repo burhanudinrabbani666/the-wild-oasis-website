@@ -1,6 +1,6 @@
 # Navigation between pages
 
-using `<Link>` like react-router. but the different, next.js `<Link/>` using href="" not to=""
+using `<Link>` like react-router for make like SPA. but the different with react-router, next.js `<Link/>` using href="" not to=""
 
 ```jsx
 import Link from "next/link";
