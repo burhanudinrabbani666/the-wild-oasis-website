@@ -1,7 +1,6 @@
 @import "tailwind/preflight";
 
 @tailwind utilities;
-@tailwind utilities;
 
 @layer components {
   .spinner {
